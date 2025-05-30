@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Maria :)
 
 # 💫 About Me:
 - 🧬 Working on integrative multi-omics analyses to identify biomarkers and therapeutic targets for cardiovascular and autoimmune diseases <br>- 👯 I’m looking to collaborate on interdisciplinary projects at the intersection of biology, data science, and medicine—especially those involving large-scale genomics or systems biology.
